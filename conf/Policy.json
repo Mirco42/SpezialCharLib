@@ -1,0 +1,164 @@
+{
+    "policy": [
+        {
+            "guid": "fa9b3323-35be-4a78-add0-a72ce96c94a2",
+            "policyDetail": {
+                "folderId": "7b887f108e2ed09097d23106b62069c7",
+                "guid": "fa9b3323-35be-4a78-add0-a72ce96c94a2",
+                "id": "7b887f108e2ed09097d23106b6206a0b",
+                "name": "a",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policies\/a.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "7b887f108e2ed09097d23106b6206a0b"
+        },
+        {
+            "guid": "9795d63d-a391-4e9a-bbc4-e318bd0aa82d",
+            "policyDetail": {
+                "folderId": "7b887f108e2ed09097d23106b62069c7",
+                "guid": "9795d63d-a391-4e9a-bbc4-e318bd0aa82d",
+                "id": "7b887f108e2ed09097d23106b6206a20",
+                "name": "b",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policies\/b.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "7b887f108e2ed09097d23106b6206a20"
+        },
+        {
+            "guid": "bfab7e40-451b-45ff-85b6-b83bbe4aaef8",
+            "policyDetail": {
+                "folderId": "7b887f108e2ed09097d23106b62069c7",
+                "guid": "bfab7e40-451b-45ff-85b6-b83bbe4aaef8",
+                "id": "7b887f108e2ed09097d23106b6206a35",
+                "name": "c",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policies\/c.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "7b887f108e2ed09097d23106b6206a35"
+        },
+        {
+            "guid": "f9efb959-d8e0-4fb1-8e36-d7174df9219f",
+            "policyDetail": {
+                "folderId": "7b887f108e2ed09097d23106b62069c7",
+                "guid": "f9efb959-d8e0-4fb1-8e36-d7174df9219f",
+                "id": "7b887f108e2ed09097d23106b6206cf4",
+                "name": "%&Pol",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policies\/%&Pol.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "7b887f108e2ed09097d23106b6206cf4"
+        }
+    ]
+}
