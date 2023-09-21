@@ -4,5 +4,8 @@
         <L7p:CommentAssertion>
             <L7p:Comment stringValue="Policy Fragment: c"/>
         </L7p:CommentAssertion>
+        <L7p:CommentAssertion>
+            <L7p:Comment stringValue="ool"/>
+        </L7p:CommentAssertion>
     </wsp:All>
 </wsp:Policy>
