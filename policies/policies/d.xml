@@ -4,5 +4,11 @@
         <L7p:CommentAssertion>
             <L7p:Comment stringValue="Policy Fragment: d"/>
         </L7p:CommentAssertion>
+        <L7p:CommentAssertion>
+            <L7p:Comment stringValue="jnjk"/>
+        </L7p:CommentAssertion>
+        <L7p:CommentAssertion>
+            <L7p:Comment stringValue="jknjk"/>
+        </L7p:CommentAssertion>
     </wsp:All>
 </wsp:Policy>
