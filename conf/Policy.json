@@ -1,6 +1,46 @@
 {
     "policy": [
         {
+            "guid": "7a281801-3ad1-4185-913c-8c8f6ae7570c",
+            "policyDetail": {
+                "folderId": "7b887f108e2ed09097d23106b62069c7",
+                "guid": "7a281801-3ad1-4185-913c-8c8f6ae7570c",
+                "id": "39285ad518cc142840e6683417b59519",
+                "name": "d",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policies\/d.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "39285ad518cc142840e6683417b59519"
+        },
+        {
             "guid": "fa9b3323-35be-4a78-add0-a72ce96c94a2",
             "policyDetail": {
                 "folderId": "7b887f108e2ed09097d23106b62069c7",
@@ -16,7 +56,7 @@
                         },
                         {
                             "key": "revision",
-                            "longValue": "1"
+                            "longValue": "2"
                         },
                         {
                             "key": "soap",
@@ -56,7 +96,7 @@
                         },
                         {
                             "key": "revision",
-                            "longValue": "1"
+                            "longValue": "2"
                         },
                         {
                             "key": "soap",
